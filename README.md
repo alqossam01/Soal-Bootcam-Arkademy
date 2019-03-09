@@ -1,6 +1,7 @@
 # Jawaban-Soal-Bootcam-Arkademy
 # Penjelasan Jawaban
 
+1. source : https://www.w3schools.com/js/js_json_stringify.asp 
 
 2. soal 2 menggunakan bahasa python, cara menjalankan dengan perintah : python soal2.py 
 
